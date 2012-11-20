@@ -1,0 +1,19 @@
+*** Creating Trace Output File 'EE4144Project.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"startup_stm32f4xx.o"'
+### List of Objects: adding '"mainfile.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M4.fp "startup_stm32f4xx.o" "mainfile.o" --ro-base 0x08000000 --entry 0x08000000 --rw-base 0x20000000 --entry Reset_Handler --first __Vectors --strict --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\EE4144Project.map" -o EE4144Project.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'EE4144Project.axf'
+### ADS-LD Command File: 'EE4144Project.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'EE4144Project.lnp', Handle=0x0000058C
+### Writing '.lnp' file
+### ADS-LD Command file 'EE4144Project.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 1 errors
+### Updating obj list
+### LDADS_file() completed.
