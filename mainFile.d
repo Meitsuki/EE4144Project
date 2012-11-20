@@ -1,0 +1,1 @@
+mainFile.o: mainFile.s
